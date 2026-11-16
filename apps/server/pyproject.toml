@@ -5,7 +5,7 @@ description = "Local-only speech and translation services for the Z-Team Lingua 
 license = { text = "PolyForm Noncommercial 1.0.0" }
 requires-python = ">=3.11"
 dependencies = [
-  "fastapi>=0.115",
+  "fastapi>=0.162.4",
   "uvicorn[standard]>=0.54.0",
   "pydantic>=2.8",
   "pydantic-settings>=2.4",
